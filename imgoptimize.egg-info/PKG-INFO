@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: imgoptimize
+Version: 0.1.0
+Summary: Image optimization tool for web
+Author: Tautvydas
+Requires-Python: >=3.6

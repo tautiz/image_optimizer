@@ -1,0 +1,2 @@
+[console_scripts]
+imgoptimize = image_optimizer.optimize_images:main
